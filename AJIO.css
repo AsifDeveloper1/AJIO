@@ -1,0 +1,108 @@
+/*body*/
+body{
+    margin:0%;
+    background-color: black;
+}
+hr{
+    color: black;
+    height: 3px;
+    margin: 0%;
+}
+/* header section */
+header{
+    height: 90px;
+    background-color:white ;
+}
+#brand{
+    color: #2c4152;
+    font-size: 50px;
+    margin-top: 1%;
+    margin-left: 3%;
+    float: left;
+    font-style:initial;
+}
+#men{
+    color: #2c4152;
+    font-size: 15px;
+    margin-top: 4%;
+    margin-left: 23%;  
+    float:left;
+    font-style: initial;
+}
+#women{
+    color: #2c4152;
+    font-size: 15px;
+    margin-top: 4%;
+    margin-left: 2%;  
+    float:left;
+    font-style: initial;
+}
+#kids{
+    color: #2c4152;
+    font-size: 15px;
+    margin-top: 4%;
+    margin-left: 2%;  
+    float:left;
+    font-style: initial;
+}
+#indie{
+    color: #2c4152;
+    font-size: 15px;
+    margin-top: 4%;
+    margin-left: 2%;  
+    float:left;
+    font-style: initial;
+}
+#home{
+    color: #2c4152;
+    font-size: 15px;
+    margin-top: 4%;
+    margin-left: 2%;  
+    float:left;
+    font-style: initial;
+}
+#sign{
+    color: #2c4152;
+    font-size: 15px;
+    margin-top: 1%;
+    margin-left: 2%;  
+    float:left;
+    font-style: initial;
+}
+#cus{
+    color: #2c4152;
+    font-size: 15px;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 0%;
+    margin-bottom: 0%;  
+    float:left;
+    font-style: initial;
+}
+#visit{
+    color: white;
+    font-size: 14px;
+    margin-top: 0%;
+    margin-left: 2%;  
+    float:left;
+    font-style: initial;
+    height: 30px;
+    background-color: black;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    
+
+}
+#search{
+    color: #2c4152;
+    font-size: 15px;
+    margin-top: 1.7%;
+    margin-right: 20%;  
+    float:right;
+    font-style: initial;
+    height: 35px;
+    width: 130px;
+    border: 1px solid black;
+    border-radius: 30%;
+}
+
